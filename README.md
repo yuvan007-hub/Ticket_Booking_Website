@@ -3,8 +3,8 @@
     <head>
         <title> CSK VS MI </title>
         <link rel="stylesheet" href="style.css">
-    </head>
-    <style>
+
+        <style>
         div{
             background-color: black;
             color: white;
@@ -16,9 +16,11 @@
                 float: none;
             }
         }
-    </style>
-    <div>
+        </style>
+    </head>
+    
     <body>
+    <div>
     <center> <h1>CSK VS MI</h1>  <br>
     <img src="img/img2.png.jpg" width="700px" height="400px"> </center>
      <p> CSK VS MI is one of the biggest rivalries and it is the most watched by the audience and its going to be the greatest match ever in ipl history
