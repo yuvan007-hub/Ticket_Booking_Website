@@ -87,7 +87,8 @@
         For the match CSK VS MI will be telecasted on StarSpotsTamil by 6 pm and the comentry will starts by 6 pm and the commentators are <a href="https://www.instagram.com/reel/DQHTXkuEu7Z/"> RJ BALAJI </a> , <a href="https://www.instagram.com/reel/DRCNKlnkcIO/"> SADAGOPAN RAMESH </a>, <a href="https://www.instagram.com/supermuthu/?hl=en"> MUTHU </a>, <a href="https://www.instagram.com/cheekaofficial/?hl=en"> KRISHNAMACHARI SRIKKANTH </a>, <a href="https://www.instagram.com/reel/DQ30K4OEVR-/"> ANIRUDHA SRIKANTH </a>.
     </p>
     <hr>
-    <center> <a href="book.html"> <button style="background-color: blue; color: white;">Book Tickets</button> </a>
+    <center> <a href="book.html"> <button style="background-color: blue; color: white;">Book Tickets</button> </a> 
+    </center>
     </div>
     </body>
 </html>
