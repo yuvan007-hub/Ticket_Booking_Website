@@ -88,6 +88,6 @@
     </p>
     <hr>
     <center> <a href="book.html"> <button style="background-color: blue; color: white;">Book Tickets</button> </a>
-     </div>
+    </div>
     </body>
 </html>
